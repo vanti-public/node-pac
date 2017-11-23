@@ -36,7 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikefrey/node-pac.git"
+    "url": "git://github.com/vanti-public/node-pac.git"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.vanti.co.uk/repository/npm-releases/"
   },
   "gitHead": "4681b5f3075008845b8e397a4cd49abac7c09f9a",
   "keywords": [
